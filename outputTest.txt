@@ -1,0 +1,5 @@
+0,Rocky Road,Vanilla with Chocolate and Marshmallows,5.00,Medium
+2,Gold Medal Ribbon,Vanilla and Caramel,5.00,Medium
+3,Chocolate Chip Mint,Mint flavoured with Chocolate chips,5.00,Medium
+4,Cookie Dough,Vanilla with cookie dough chunks,10.00,Large
+5,Cosmopolitian ,Three flovoured: strawberry chocolate and vanilla,3.00,Small
