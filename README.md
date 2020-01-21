@@ -14,12 +14,18 @@ My responsibilities were
 
 Screenshots:
 
+Main menu and view all flavours:
+
 <img src="Screenshots/6_ViewAscending.png" width="550px" height="500px">
+
+1: Search
 
 <img src="Screenshots/1_Search.png" width="450px" height="200px">
 
+2: Add new flavour
 <img src="Screenshots/2_Add.png" width="500px" height="150px">
 
+3: Edit flavour
 <img src="Screenshots/3_Edit.png" width="500px" height="200px">
 
 
