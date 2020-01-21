@@ -1,4 +1,4 @@
-# IceCreamInventorySystem
+# Ice Cream Inventory System in C
 
 
 This was a team project with two of my friends: CA, JL. It was the final project in the data structures and algorithms programming in C course.
@@ -13,6 +13,16 @@ My responsibilities were
 -Display List of all flavours
 
 Screenshots:
+
+<img src="Screenshots/6_ViewAscending.png" width="550px" height="500px">
+
+<img src="Screenshots/1_Search.png" width="450px" height="200px">
+
+<img src="Screenshots/2_Add.png" width="500px" height="150px">
+
+<img src="Screenshots/3_Edit.png" width="500px" height="200px">
+
+
 
 
 
